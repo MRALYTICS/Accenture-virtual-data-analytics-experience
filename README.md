@@ -50,12 +50,9 @@ Prepare a presentation to the client using Microsoft PowerPoints and sharing ins
 
 #Tasks carried out on Microsoft excel.
 
-I wrote queries to carry out data cleaning in MS SQL Server, I also wrote to model the datasets by creating connections using SQL JOINS. Lastly I wrote queries to analyze and generate insights into the client’s data sets.
+I used the powerquery in e.
 
-You can check out my work on SQL by hitting on this link which will direct you to my GitHub Repository.
-
-Analysis and Insights (Visualizations and Dashboard).
-
+Analysis and Insights (Visualizations and Dashboard)
 From a total of 16 different content categories, the top 5 contents include animals, science, healthy eating, technology, and food. With contents on animals topping the charts with a total score of about 75,000 points.
 
 In terms of percentage share of popularity amongst the top 5 content categories, animals has a popularity percentage share of 21.36%, followed by science with a popularity percentage share of 20.28%, healthy eating and food are in 3rd and 5th place respectively, with each having a popularity percentage share of 19.76% and 19% respectively.
