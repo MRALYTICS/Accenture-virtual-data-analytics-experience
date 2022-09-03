@@ -49,21 +49,35 @@ Prepare data visualizations on Microsoft Power BI and carry out storytelling wit
 Prepare a presentation to the client using Microsoft PowerPoints and sharing insights gotten from the data.
 
 #Tasks carried out on Microsoft excel.
+* I find and replace the text in quote
+* i also removed missing values
+* i change the datatypes to the required data type
+* Then finally i merged the required data set required for my analysis
+ 
+![Screenshot (307)](https://user-images.githubusercontent.com/107101960/188252119-69cb9400-80ca-4abe-a309-ebeb3c2690db.png)
+![image](https://user-images.githubusercontent.com/107101960/188252425-672010e7-f0b8-4d56-bc3d-9b5c1f584ff7.png)
 
-I used the powerquery in e.
 
-Analysis and Insights (Visualizations and Dashboard)
-From a total of 16 different content categories, the top 5 contents include animals, science, healthy eating, technology, and food. With contents on animals topping the charts with a total score of about 75,000 points.
 
-In terms of percentage share of popularity amongst the top 5 content categories, animals has a popularity percentage share of 21.36%, followed by science with a popularity percentage share of 20.28%, healthy eating and food are in 3rd and 5th place respectively, with each having a popularity percentage share of 19.76% and 19% respectively.
+# Analysis and Insights (Visualizations and Dashboard)
+From a total of 15 different content categories, the top 5 contents include animals, travel, culture, technology, and science. With contents on animals topping the charts with a total score of about 34000 points. I also find out that "LOvE" was a common word posted by users
+![Screenshot 2022-08-29 031452](https://user-images.githubusercontent.com/107101960/188253020-0fbebf7a-7709-4229-a03f-839a4f535718.png)
+
+
+In terms of percentage share of popularity amongst the top 5 content categories, animals has a popularity percentage share of 31.85%, followed by Tech with a popularity percentage share of 17.72%, healthy eating and food are in 3rd and 5th place respectively, with each having a popularity percentage share of 19.76% and 19% respectively.
+![Screenshot (321)](https://user-images.githubusercontent.com/107101960/188253472-8d7a897d-8f6c-4255-b519-3602bee837e8.png)
+
+
 
 Looking at the total number of posts by category we can see that the top 5 content categories are in sequential order with respect to the previous two visuals. animals tops the chart with a total of 1,967 posts, followed by science which has a total of 1,864 posts. In last place is public speaking with a total post of 1,266.
 
 Looking at the total number of posts by content type, photos have the highest posts with a total of 6,847 posts, followed by videos with a total of 6,499 posts, in third place is GIFs with a total of 6,313 posts, and lastly audio with a total of 5,894 posts.
 
-January is the month having the highest number of posts with a total of 2,218 posts, this shows that people post a lot during this period. Other high. Though there is a huge drop in total posts in the month of February with a total of 1,980 posts. From this chart we can see that posts by month undulating (rises and falls).
+December is the month having the highest number of posts with a cummulative  of 3,994 posts, this shows that people post a lot during this period. Other high. Though there is a huge drop in total posts in the month of February with a total of 34 posts. From this chart we can see that posts by month undulating (rises and falls).
 
-Final Dashboard:
+# Final Dashboard:
+![dataviz_socialbuzz_page-0001](https://user-images.githubusercontent.com/107101960/188252450-4d111ee1-e814-4f1d-8b80-345aa4915a44.jpg)
+![dataviz_socialbuzz_page-0002](https://user-images.githubusercontent.com/107101960/188252462-1e5f7fd3-2912-4e90-99f4-75e04bce2ec5.jpg)
 
 
 Recommendations:
